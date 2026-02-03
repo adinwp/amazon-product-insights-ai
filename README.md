@@ -1,6 +1,18 @@
 # 🗣️ Voice of Customer: E-Commerce Sentiment Analytics
 
+### 📊 Project Highlights
+Here are the visual insights generated from the analysis:
+
+**1. Root Cause Diagnosis (Per Product)**
 ![Product Issues](Issues_Per_Product_HD.png)
+
+**2. Product Segmentation (Best vs. Worst Performers)**
+![Product Segmentation](Product_Segmentation_HD.png)
+
+**3. Overall Sentiment Distribution**
+![Sentiment Distribution](Sentiment_Distribution_HD.png)
+
+---
 
 ### 📌 Project Overview
 In e-commerce, a 4.5-star rating can hide fatal flaws. A product might be rated highly for *price* but fail consistently on *durability* after 1 year.
